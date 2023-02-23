@@ -1,9 +1,11 @@
 Go to linux folder. Create new folder name hello
 
 ![image](https://user-images.githubusercontent.com/89134017/220843632-7013334f-ceb6-4a1a-8d92-ea978aee5963.png)
+
 create a new file name hello.c and write the following code
 
 ![image](https://user-images.githubusercontent.com/89134017/220843742-00a2cf93-c87c-4d62-ac38-46c3857f6a8f.png)
+
 create a file with name Makefile
 
 ![image](https://user-images.githubusercontent.com/89134017/220843771-1c212b86-a46c-4864-957a-43cdcccbc40d.png)
